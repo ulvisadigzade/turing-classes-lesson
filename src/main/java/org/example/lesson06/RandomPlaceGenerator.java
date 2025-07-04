@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class RandomPlaceGenerator {
     public static void main(String[] args) {
-        int numberOfStudents = 15;
         String[] students = {
                 "Huseyn",
                 "Aqil",
@@ -22,7 +21,8 @@ public class RandomPlaceGenerator {
                 "Ays",
                 "Assassin"
         };
-        int[] placesOfStudents = new int[numberOfStudents];
+
+        int[] placesOfStudents = new int[students.length];
 
         generateRandomPlaces(students,placesOfStudents);
         printOrders(students,placesOfStudents);
