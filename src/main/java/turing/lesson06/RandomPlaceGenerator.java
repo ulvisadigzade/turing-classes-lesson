@@ -1,4 +1,4 @@
-package org.example.lesson06;
+package turing.lesson06;
 
 import java.util.Random;
 

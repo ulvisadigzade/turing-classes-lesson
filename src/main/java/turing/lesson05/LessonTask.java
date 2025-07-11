@@ -1,4 +1,4 @@
-package org.example.lesson05;
+package turing.lesson05;
 
 public class LessonTask {
     /*

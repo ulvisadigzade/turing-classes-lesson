@@ -1,4 +1,4 @@
-package org.example.lesson07;
+package turing.lesson07;
 
 public class Car {
     public String model;

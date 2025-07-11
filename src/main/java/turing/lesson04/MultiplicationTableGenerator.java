@@ -1,4 +1,4 @@
-package org.example.lesson04;
+package turing.lesson04;
 
 import java.util.Scanner;
 
